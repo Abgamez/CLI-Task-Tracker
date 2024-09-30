@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "description": "Drink a Coffee and Do Coding",
+    "description": "Estudiar con Roadmap",
     "completed": true,
     "inProgress": false
   },
   {
     "id": 4,
-    "description": "tomando agua",
-    "completed": true,
-    "inProgress": false
+    "description": "Descansar y tomar Cafe",
+    "completed": false,
+    "inProgress": true
   },
   {
     "id": 5,
-    "description": "Drink a Coffee",
+    "description": "Leer un libro",
     "completed": false,
     "inProgress": false
   }
