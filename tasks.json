@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "description": "Drink a Coffee and Do Coding",
+    "completed": true,
+    "inProgress": false
+  },
+  {
+    "id": 4,
+    "description": "tomando agua",
+    "completed": true,
+    "inProgress": false
+  },
+  {
+    "id": 5,
+    "description": "Drink a Coffee",
+    "completed": false,
+    "inProgress": false
+  }
+]
